@@ -40,13 +40,13 @@ public class Answer {
          * 출력 예시:
          * 두 객체는 같은 인스턴스입니다.
          * */
-    Singleton instance1 = Singleton.getInstance();
-    Singleton instance2 = Singleton.getInstance();
-        if (instance1 == instance2) {
-            System.out.println("두 객체는 같은 인스턴스입니다.");
-        } else {
-            System.out.println("두 객체는 다른 인스턴스입니다.");
-        }
-    }
+//    Singleton instance1 = Singleton.getInstance();
+//    Singleton instance2 = Singleton.getInstance();
+//        if (instance1 == instance2) {
+//            System.out.println("두 객체는 같은 인스턴스입니다.");
+//        } else {
+//            System.out.println("두 객체는 다른 인스턴스입니다.");
+//        }
+   }
     }
 

@@ -16,9 +16,9 @@ public class Singleton {
      * 출력 예시:
      * 두 객체는 같은 인스턴스입니다.
      * */
-    private static Singleton singleton = new Singleton();
-    private Singleton(){};
-    public static Singleton getInstance(){
-        return instance;
-    }
+//    private static Singleton singleton = new Singleton();
+//    private Singleton(){};
+//    public static Singleton getInstance(){
+//        return instance;
+//    }
 }

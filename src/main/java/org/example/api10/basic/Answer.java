@@ -37,7 +37,7 @@ public class Answer {
         String[] strs = str.split(",");
         for (String s : strs) {
             if (s.equals("Python")) {
-                System.out.println("Python이 포함되어 있습니다.");
+                System.out.println("Python이 포함되어 있습니다..");
             }
 
         }
